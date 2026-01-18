@@ -81,7 +81,7 @@ span{
 
 .banner {
     padding: 120px 80px;
-    background-image: url('img/banner-topo.jpg');
+    background-image: url('banner-topo.jpg');
     background-position: center;
     background-size: cover;
 }
@@ -194,5 +194,6 @@ iframe{
     display: block;     
     margin: 0 auto;      
 }
+
 
 
