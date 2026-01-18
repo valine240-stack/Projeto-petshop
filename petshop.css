@@ -130,6 +130,7 @@ span{
 
 .titulo-topo img{
     width: 20px;
+    margin-left: 5px;
 }
 
 .titulo-topo a{
@@ -194,6 +195,7 @@ iframe{
     display: block;     
     margin: 0 auto;      
 }
+
 
 
 
