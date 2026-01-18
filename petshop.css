@@ -1,0 +1,198 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+    box-sizing: border-box;
+        
+}
+
+.logo-secundario{
+    color:#3C184E;
+    max-width: 250px;
+}
+
+.titulo-topo{
+    color:#3C184E;
+}
+
+.titulo-topo p{
+    color:#ffff;
+}
+
+.servicos{
+    color:#3C184E;
+}
+
+.marcas{
+    color:#3C184E;
+    padding: 120px 80px;
+    width: 100%;
+}
+
+.boutique{
+    background-color: #3C184E;
+    color:#ffff;
+    padding: 120px 80px;
+    text-align: center;
+    background-size: cover;
+    width: 100%;
+    margin: 0px;
+}
+
+.boutique-paragrafo{
+    max-width: 800px;
+    margin: 0px auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.redes-sociais{
+    margin: auto 20px;
+}
+
+.boutique img{
+    width: 50px;
+    height: 50px;
+}
+
+.mapa{
+    color:#3C184E;
+}
+.desenvolvido{
+    background-color:#3C184E;
+    color:#ffff;
+    width: 100%;
+    padding: 10px 0px;
+}
+
+.desenvolvido p{
+    font-size: 12px;
+    text-align: center;
+}
+
+span{
+    font-style: italic;
+    font-weight: 700;
+}
+
+.banner {
+    padding: 120px 80px;
+    background-image: url('img/banner-topo.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.pata-nome-pet{
+    font-size: 35px;
+    margin: 0px 0px 5px 0px;
+}
+
+.pata-nome-pet img{
+    width: 30px;
+    margin-right: 5px;
+}
+
+.slogan-pet{
+    font-size: 14px;
+    text-align: center;
+    margin: 0px;
+}
+
+.titulo-topo{
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0px auto;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.titulo-topo h1{
+    font-size: 60px;    
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+
+.titulo-topo p{
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0px auto 0px auto;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #3C184E;
+}
+
+.titulo-topo img{
+    width: 20px;
+}
+
+.titulo-topo a{
+    color:#ffff;
+    font-size: 20px;
+}
+
+.servicos h2{
+    margin: 0px 0px 45px 0px;
+    text-align: center;
+    font-size: 36px;
+}
+
+.lista{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+}
+
+.lista li{
+    font-size: 20px;
+    margin: 0px 0px 20px 0;
+}
+
+.fotos-servicos{
+    max-width: 800px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.fotos-servicos img{
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+h3{
+    font-size: 36px;
+    text-align: center;
+    margin: 0px 0px 45px 0px;   
+}
+
+.parceiras{
+    width: 800px;
+    margin: 0px auto;
+}
+
+.parceiras img{
+    width: 148px;
+    height: 148px;
+    margin: 0px 15px;
+}
+
+.mapa p{
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 0px 45px 0px;
+
+}
+
+iframe{
+    text-align: center;
+    width: 800px;
+    height: 450px;
+    display: block;     
+    margin: 0 auto;      
+}
+
+
